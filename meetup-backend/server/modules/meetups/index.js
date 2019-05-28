@@ -1,3 +1,3 @@
 import MeetupRoutes from './routes';
 
-export {MeetupRoutes}; 
+export { MeetupRoutes };
